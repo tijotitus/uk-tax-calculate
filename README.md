@@ -22,7 +22,7 @@ A simple web-based calculator that calculates the UK income tax based on the cur
 
 2. Place the project files on a local server (e.g., XAMPP, WAMP, or MAMP) or deploy on a web server that supports PHP.
 
-3. Open `index.html` in a web browser to use the calculator.
+3. Open `index.php` in a web browser to use the calculator.
 
 ## Usage
 
@@ -32,7 +32,7 @@ A simple web-based calculator that calculates the UK income tax based on the cur
 
 ## File Structure
 
-- `index.html`: The main HTML file containing the form, styling, and jQuery AJAX script.
+- `index.php`: The main HTML file containing the form, styling, and jQuery AJAX script.
 - `calculate_tax.php`: The PHP file that processes the tax calculation based on income input.
 - `README.md`: Documentation for setting up and using the calculator.
 
